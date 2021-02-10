@@ -17,7 +17,7 @@ let package = Package(
         .package(name: "SwiftPhoenixClient", url: "https://github.com/davidstump/SwiftPhoenixClient.git", .exact("1.2.1")),
         .package(name: "TwilioVoice", url: "https://github.com/twilio/twilio-voice-ios", .exact( "6.2.0")),
         .package(name: "WebRTC", url: "https://github.com/alexpiezo/WebRTC.git", .exact( "1.1.31567")),
-        .package(name: "SalemoveSDK", url: "https://github.com/gersonnoboa/glia-core", .exact("1.0.1"))
+        .package(name: "SalemoveSDK", url: "https://github.com/gersonnoboa/glia-core", .exact("1.0.2"))
     ],
     targets: [
         .target(
