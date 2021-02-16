@@ -20,6 +20,15 @@
         }
       },
       {
+        "package": "SocketIO",
+        "repositoryURL": "https://github.com/gersonnoboa/ios-socket-client",
+        "state": {
+          "branch": null,
+          "revision": "c718368e3b368d9aed5a074510fafdd77b1558d1",
+          "version": "9.2.0"
+        }
+      },
+      {
         "package": "Macaw",
         "repositoryURL": "https://github.com/exyte/Macaw.git",
         "state": {
@@ -53,15 +62,6 @@
           "branch": null,
           "revision": "002d325b0bdee94e7882e1114af5ff4fe1e96afa",
           "version": "5.1.1"
-        }
-      },
-      {
-        "package": "SocketIO",
-        "repositoryURL": "https://github.com/socketio/socket.io-client-swift",
-        "state": {
-          "branch": null,
-          "revision": "36db2ff0ebc7239187f9b382fd318e122da71caa",
-          "version": "15.2.0"
         }
       },
       {
