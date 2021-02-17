@@ -15,16 +15,16 @@
         "repositoryURL": "https://github.com/gersonnoboa/glia-core",
         "state": {
           "branch": null,
-          "revision": "80fdd4966648ddb925be42141278a0aa7ece9aaa",
+          "revision": "7f753a6a5e875bbdfe394dd76d75f5201f44d538",
           "version": "1.0.2"
         }
       },
       {
         "package": "SocketIO",
-        "repositoryURL": "https://github.com/gersonnoboa/ios-socket-client",
+        "repositoryURL": "https://github.com/salemove/ios-socket-client",
         "state": {
           "branch": null,
-          "revision": "c718368e3b368d9aed5a074510fafdd77b1558d1",
+          "revision": "8822d375d855c056490c91110d81a7bf33127ace",
           "version": "9.2.0"
         }
       },
