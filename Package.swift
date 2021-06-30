@@ -44,7 +44,7 @@ let package = Package(
         .binaryTarget(
             name: "GliaWidgets",
             url: "https://github.com/salemove/test-123/releases/download/0.4.6/GliaWidgets.xcframework.zip",
-            checksum: "09db77264cf7edc18d27e6880b7d9ed272542a4462b57e3bc10c95e480991bf7"
+            checksum: "6787aa5dd20d19afa275f7b89538f707a81c6141efcd717c52a7aa1613ceef6e"
         ),
         
         .target(
